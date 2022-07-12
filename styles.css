@@ -1,0 +1,24 @@
+body{
+    background: #EBEBEB;
+}
+.landing-page{
+    background: linear-gradient(#eeecec33,rgba(109, 8, 88, 0.51)), url(https://raw.githubusercontent.com/tawanda-profuse/sweetooth-ice-cream/main/pictures/landing.webp);
+	background-size: cover;
+    background-attachment: fixed;
+    min-height: 700px;
+}
+li{
+    font-size: 20px;
+}
+.main-section-text{
+    padding-top: 200px;
+}
+.s-size{
+    letter-spacing: 6px;
+}
+hr{
+    width: 50%;
+}
+.b-left{
+    border-left: 1px solid black;
+}
